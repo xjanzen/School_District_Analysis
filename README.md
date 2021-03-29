@@ -23,7 +23,7 @@ Removing the 9th grade has few changes:
 |School Size|![variables](Resources/Before-SchoolSize.png) | ![variables](Resources/After-SchoolSize.png)|
 
 ## Summary
--Thomas High School's 9th graders dropped from 5th in reading score
--Thomas High School's 9th graders dropped from 2nd in math score
--Thomas High School dropped from the highest percentage passed for reading to third
--Pena High School moved up to second highest math scores for 9th grade
+- Thomas High School's 9th graders dropped from 5th in reading score
+- Thomas High School's 9th graders dropped from 2nd in math score
+- Thomas High School dropped from the highest percentage passed for reading to third
+- Pena High School moved up to second highest math scores for 9th grade
